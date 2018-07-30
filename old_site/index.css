@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body h1 {
+	color: #000000;
+	background-color: #B9B9EA;
+	text-align: center;
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+}
+body {
+	background-color: #B9B9EA;
+}
+ul li a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+body header {
+	
+}
+body header p {
+	text-align: center;
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+}
+header nav ul {
+}
+nav ul li {
+	display: inline;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+}
+body article {
+	width: 200px;
+	height: 300px;
+	background-color: #CACACA;
+	padding-left: 0px;
+	margin-left: 450px;
+	text-align: left;
+	float: left;
+	position: static;
+}
+body header nav {
+	background-color: #000000;
+}

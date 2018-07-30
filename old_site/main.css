@@ -1,0 +1,47 @@
+@charset "UTF-8";
+body h1 {
+	color: #000000;
+	background-color: #B9B9EA;
+	text-align: center;
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+}
+body {
+	background-color: #B9B9EA;
+}
+
+body header {
+	
+}
+body header p {
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	font-family: alex-brush;
+}
+body header ul li a {
+	color: #FFFFFF;
+}
+body header nav ul li a {
+	text-decoration: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+header nav ul {
+	text-decoration: none;
+}
+nav ul li {
+	display: inline;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+}
+
+body header nav {
+	background-color: #000000;
+}
+body ul li {
+	display: inline;
+}

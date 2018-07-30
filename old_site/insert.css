@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body h1 {
+	color: #000000;
+	background-color: #B9B9EA;
+	text-align: center;
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+}
+body {
+	background-color: #B9B9EA;
+}
+ul li a {
+	text-decoration: none;
+}
+body header {
+	
+}
+body header p {
+	text-align: center;
+	font-family: alex-brush;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+}
+header nav ul {
+}
+nav ul li {
+	display: inline;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+}
+
+body header nav {
+	background-color: #000000;
+}
+@charset "UTF-8";
+/* CSS Document */
+
+@charset "UTF-8";
